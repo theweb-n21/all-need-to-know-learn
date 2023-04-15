@@ -1,0 +1,11 @@
+{
+  "name": "all-need-to--know-prictice",
+  "version": "1.0.0",
+  "description": "javascript learn",
+  "main": "app.javascript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nazmul islam",
+  "license": "ISC"
+}
